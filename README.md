@@ -1,3 +1,3 @@
-# Graduate-School-Projects
+# Fordham MSBA Data Mining Bankruptcy Project
 
-This is a collection of graduate school analytics projects
+The project used Polish Bankruptcy data to train models to predict possible bankruptcies of client companies.
